@@ -10,6 +10,15 @@ img {
     width: 300px;
 }
 
+.foto-profil{
+    border-radius: 100%;
+}
+
+.bg-merah{
+    background-color: red;
+}
+
+
 #judul {
     font-weight: bold;
 }
