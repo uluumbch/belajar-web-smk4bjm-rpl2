@@ -52,3 +52,16 @@ table{
     margin-left: auto;
     margin-right: auto;
 }
+
+tr{
+    border-bottom: black 2px solid;
+}
+
+/* opsi lain untuk bikin border bawah */
+/* td{
+    border-bottom: black 2px solid;
+} */
+
+td:first-child{
+    font-weight: bold;
+}
